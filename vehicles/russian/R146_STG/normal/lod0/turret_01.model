@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.85129 0.000000 -3.11802</min>
+    <max>1.76135 1.7424 1.66882</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/russian/R146_STG/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>
